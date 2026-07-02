@@ -11,9 +11,10 @@
 ### 🧭 About Me
 
 - 🔐 Backend Engineer with **2+ years** building secure, scalable Python REST APIs (Flask, FastAPI)
-- 🛡️ Focused on **OWASP Top 10 (A01–A07)** compliant architecture — auth, RBAC, input validation, and secure SDLC
-- 🐳 Comfortable across the full stack: **Docker, PostgreSQL/MySQL, GitHub Actions CI/CD, AWS (EC2, S3)**
-- 🌱 Currently deepening AWS cloud infrastructure skills — **CompTIA Security+ (SY0-701)** in progress
+- 🛡️ Focused on **OWASP Top 10 (A01–A07)** compliant architecture — auth, RBAC, input validation, secure SDLC
+- 🐳 Full-stack comfort: **Docker, PostgreSQL/MySQL, GitHub Actions CI/CD, AWS (EC2, S3)**
+- 🤖 Also build AI-powered interfaces — including a Jarvis-style assistant UI wired to the Anthropic API
+- 🌱 Deepening AWS cloud infrastructure skills — **CompTIA Security+ (SY0-701)** in progress
 - 🤝 Open-source contributor — **20+ merged PRs** to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (200k+ ⭐)
 - 📍 Based in Chennai, India (IST)
 
@@ -31,6 +32,7 @@
 **Frameworks & APIs**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Databases**
@@ -60,6 +62,8 @@
 | [**Nexora**](https://github.com/Manibharathi/database_connection_example) | Secure full-stack platform with JWT auth, RBAC, and 85%+ test coverage | Flask, MySQL, Docker, pytest |
 | [**Yuan CLG**](https://github.com/Manibharathi/yuanclg) | Real-time WebSocket server, 50+ concurrent connections, sub-100ms latency | Python, WebSocket, PostgreSQL |
 | [**REST API Backend**](https://github.com/Manibharathi/project_clg) | Layered FastAPI architecture with reusable middleware pipeline | FastAPI, PostgreSQL, Docker |
+| **YuanTechProfile** | Personal portfolio site built to a strict Apple/Stripe/Linear-inspired design system for tech recruiters | HTML5, CSS3, JS |
+| **Jarvis-Style AI Assistant** | Minimal single-prompt/response AI assistant UI, built on the Anthropic API | React, Anthropic API |
 
 ---
 
