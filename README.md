@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manibharathi 👋</h1>
-<h3 align="center">Backend Engineer • Python Developer • Security Engineer</h3>
+<h3 align="center"> Software Engineer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/manibharathi-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
